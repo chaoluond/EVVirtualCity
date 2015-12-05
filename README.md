@@ -14,4 +14,4 @@ How to use:
 
 (3) Usually, the Eclipse is bundled with the Repost Suite. So after you install the Repast Simphony, you can open the Eclipse and import EV_Virtual_City 1.0 as an existing project and just run it. You can modify, rewrite or add some classes in this project to satisfy your simulation needs
 
-(4) If you have any questions, feel free to contact me at cluo1@nd.edu. If you think our project is useful to your research, please consider citing our paper (C.Luo, Y.-F., Huang, and V. Gupta, "Placement of EV Charging Stations—Balancing Benefits among Multiple Entities", IEEE Transactions on Smart Grid, 2016) in your publications.
+(4) If you have any questions, feel free to contact me at cluo1@nd.edu. If you think our project is useful to your research, please acknowledge the source and consider citing our paper (C.Luo, Y.-F., Huang, and V. Gupta, "Placement of EV Charging Stations—Balancing Benefits among Multiple Entities", IEEE Transactions on Smart Grid, 2016) in your publications.
