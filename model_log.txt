@@ -1,0 +1,28 @@
+Dec 04, 2015 10:15:17 AM repastcity3.main.ContextManager build
+INFO: Creating agents with the agent definition: 'point:people_600.shp$repastcity3.agent.DefaultAgent'
+Dec 04, 2015 10:15:17 AM repastcity3.agent.AgentFactory createPointAgents
+INFO: Have created 300 of type repastcity3.agent.DefaultAgent from file ./data/gis_data/ev_city/people_600.shp
+Dec 04, 2015 10:15:17 AM repastcity3.agent.AgentFactory createPointAgents
+INFO: Have created 600 of type repastcity3.agent.DefaultAgent from file ./data/gis_data/ev_city/people_600.shp
+Dec 04, 2015 10:15:17 AM repastcity3.main.ContextManager createSchedule
+INFO: The multi-threaded scheduler will be used.
+Dec 04, 2015 10:15:23 AM repastcity3.main.ContextManager printTicks
+INFO: Iterations: 1.0
+Dec 04, 2015 10:15:26 AM repastcity3.main.ContextManager printTicks
+INFO: Iterations: 11.0
+Dec 04, 2015 10:15:28 AM repastcity3.main.ContextManager printTicks
+INFO: Iterations: 21.0
+Dec 04, 2015 10:15:29 AM repastcity3.main.ContextManager printTicks
+INFO: Iterations: 31.0
+Dec 04, 2015 10:15:30 AM repastcity3.main.ContextManager printTicks
+INFO: Iterations: 41.0
+Dec 04, 2015 10:15:31 AM repastcity3.main.ContextManager printTicks
+INFO: Iterations: 51.0
+Dec 04, 2015 10:15:32 AM repastcity3.main.ContextManager printTicks
+INFO: Iterations: 61.0
+Dec 04, 2015 10:15:33 AM repastcity3.main.ContextManager printTicks
+INFO: Iterations: 71.0
+Dec 04, 2015 10:15:34 AM repastcity3.main.ContextManager printTicks
+INFO: Iterations: 81.0
+Dec 04, 2015 10:15:34 AM repastcity3.main.ContextManager printTicks
+INFO: Iterations: 91.0
