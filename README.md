@@ -4,7 +4,7 @@ Introduction:
 
 EV Virtual City 1.0 is an agent-based simulator built on Repast Simphony (http://repast.sourceforge.net/). Based on the RepastCity project (http://nickmalleson.co.uk/software/repastcity/) developed by Dr. Nick Malleson, I rewrote some of the classes and added more features to original project. EV Virtual City 1.0 amis to simulate the interplays between the electric vehicles (EVs), the transportation network, the electric power network, the urban infrastructure, the EV charging stations, etc.
 
-This project contains many traffic and city infrastructure objects, such as road, route, residence, workplace, restaurant, shopping mall, supermarket, electric vehicle, EV charging station, etc.
+This project contains many traffic and city infrastructure objects, such as road, route, residence, workplace, restaurant, shopping mall, supermarket, electric vehicle, EV charging station, etc. In addition, multi-threading is applied to accelerate the process of moving the agents in the map. 
 
 How to use:
 
